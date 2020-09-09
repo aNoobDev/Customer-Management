@@ -19,7 +19,6 @@
 	
 	<div id="container">
 		<div id="content">
-		
 		<!-- Add table here -->
 			<table>
 			<tr>
